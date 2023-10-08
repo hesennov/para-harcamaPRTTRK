@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "ceket",
+    "price": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhEP2BeeaMObVKcbd9isS6deUaoNGR-q0TQ&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "title": "pantalon",
+    "price": 180,
+    "image": "https://n11scdn.akamaized.net/a1/320_480/giyim-ayakkabi/spor-pantolon/erkek-gri-slim-fit-kot-jean-pantolon-2190__0295747571369933.jpg"
+  },
+  {
+    "id": 3,
+    "title": "ayakkabi",
+    "price": 200,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1aa3abc4-692e-466b-b985-570a178f25ef/air-force-1-gen%C3%A7-ayakkab%C4%B1s%C4%B1-1hqfHl.png"
+  },
+  {
+    "id": 4,
+    "title": "sapka",
+    "price": 40000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGZkBGsn1VQK32fex6flL_HLM2rZ9JfRLIg&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "title": "gomlek",
+    "price": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LrTGSAKh67TLPXlTJ5aMxkZeGjgJZIWgcg&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "title": "sapka",
+    "price": 0.8,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGZkBGsn1VQK32fex6flL_HLM2rZ9JfRLIg&usqp=CAU"
+  },
+  {
+    "id": 7,
+    "title": "pantalon",
+    "price": 200,
+    "image": "https://n11scdn.akamaized.net/a1/320_480/giyim-ayakkabi/spor-pantolon/erkek-gri-slim-fit-kot-jean-pantolon-2190__0295747571369933.jpg"
+  },
+  {
+    "id": 8,
+    "title": "ayakkabi",
+    "price": 40000,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1aa3abc4-692e-466b-b985-570a178f25ef/air-force-1-gen%C3%A7-ayakkab%C4%B1s%C4%B1-1hqfHl.png"
+  },
+  {
+    "id": 9,
+    "title": "ceket",
+    "price": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhEP2BeeaMObVKcbd9isS6deUaoNGR-q0TQ&usqp=CAU"
+  },
+  {
+    "id": 10,
+    "title": "pantalon",
+    "price": 0.8,
+    "image": "https://n11scdn.akamaized.net/a1/320_480/giyim-ayakkabi/spor-pantolon/erkek-gri-slim-fit-kot-jean-pantolon-2190__0295747571369933.jpg"
+  },
+  {
+    "id": 11,
+    "title": "ayakkabi",
+    "price": 200,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1aa3abc4-692e-466b-b985-570a178f25ef/air-force-1-gen%C3%A7-ayakkab%C4%B1s%C4%B1-1hqfHl.png"
+  },
+  {
+    "id": 12,
+    "title": "sapka",
+    "price": 40000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGZkBGsn1VQK32fex6flL_HLM2rZ9JfRLIg&usqp=CAU"
+  }
+]
